@@ -8,7 +8,7 @@ align-content: center;
 .miclase{
 font-size: 40px;
 color: red;
-font-family: sans-serif;
+font-family:arial;
 }
 .menu{
 	width: auto;
@@ -17,6 +17,7 @@ font-family: sans-serif;
 	text-decoration: none;
 	background: purple;
 	color: white;
+	
 }
 html.div{
 
